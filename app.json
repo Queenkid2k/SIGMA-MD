@@ -57,11 +57,11 @@
       "description": "Enter your desired prefix for bot.",
       "value": "."
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {ANGEL-QUEEN
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "919961528230"
     },
-    "SESSION_ID": {
+    "SESSION_ID": {17_06_2024_SIGMA_MD_S085iKaU_MAHER_ZUBAIR
       "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
     },
     "OPENAI_API_KEY": {
@@ -94,10 +94,10 @@
     },
     "TIME_ZONE": {
       "description": "Add Your TimeZone. make sure the timzone is correct/Otherwise you will have errors",
-      "value": "Asia/Karachi"
+      "value": "Asia/india"
     },
     "BOT_NAME": {
-      "description": "Add Your Own Bot Name",
+      "description": "queen-angel",
       "value": "sɪɢᴍᴀ-ᴍᴅ"
     }
   },
